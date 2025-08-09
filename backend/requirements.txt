@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+spleeter
+soundfile
+numpy
+starlette
+python-multipart
